@@ -1,0 +1,26 @@
+let name ='one';
+var value=1;
+const color="red";
+
+
+console.log(name);
+
+function demo(one){
+  console.log(10 + 10 + one)
+}
+demo("twenty")
+demo("ten")
+ var car={
+   model:10,
+  new1:'blue',
+   price:10
+ }
+  
+  var Color="blue"; 
+ console.log(Color)
+ const msg = `
+hello
+world!
+`
+let [firstName, lastName] = ['Foo', 'Bar']
+console.log(firstName*lastName)
