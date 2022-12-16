@@ -1,0 +1,25 @@
+//while condithion
+
+let value =5
+while(value< 5)
+{
+console.log("Hello, World!");
+value++;
+}
+
+//for condithion
+let num1 = 5
+for(num1=0;num1<10;num1++){
+  console.log("Hello, World!");
+}
+
+//if condithion
+color='red'
+if(color='red')
+{
+  console.log("true");
+}
+else
+{
+  console.log("false");
+}
